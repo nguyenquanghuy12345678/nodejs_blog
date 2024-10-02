@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Bài mở đâu học trên f8",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenquanghuy12345678/nodejs_blog.git"
+  },
+  "author": "Huy Cute Học Nodejs bởi F8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenquanghuy12345678/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/nguyenquanghuy12345678/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
